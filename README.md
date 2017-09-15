@@ -12,3 +12,7 @@ src : http://docs.aws.amazon.com/awscloudtrail/latest/userguide/create-s3-bucket
 * "arn:aws:iam::388731089494:root",
 * "arn:aws:iam::284668455005:root",
 * "arn:aws:iam::113285607260:root"
+
+### AWS Owned for billing reports
+src  : http://docs.aws.amazon.com/awsaccountbilling/latest/aboutv2/billing-getting-started.html
+* 386209384616
